@@ -1,0 +1,116 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "me.zombii",
+    "module": "quicknet",
+    "version": "1.0.0",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "8.14"
+    }
+  },
+  "variants": [
+    {
+      "name": "apiElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 8,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-api"
+      },
+      "files": [
+        {
+          "name": "quicknet-1.0.0.jar",
+          "url": "quicknet-1.0.0.jar",
+          "size": 51973,
+          "sha512": "b8832cd06a5181206f57522df6d7b4465878713ceed4703f6432e81c78611123e30f1e2895f76d2fb3e9f8fb533a21ce28f6fa33c3971f7edf2f31943bf4a57a",
+          "sha256": "5caf05f0f4064e8b0403ee947f57d4b0653d288f9c9a9e0eb118eafbc2682e5f",
+          "sha1": "4281cd1d57602469d3266c7d81129e26638ad880",
+          "md5": "2b72de7c5f4fc42d7b112892ed021c29"
+        }
+      ]
+    },
+    {
+      "name": "runtimeElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 8,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "dependencies": [
+        {
+          "group": "io.netty",
+          "module": "netty-all",
+          "version": {
+            "requires": "4.2.10.Final"
+          }
+        },
+        {
+          "group": "it.unimi.dsi",
+          "module": "fastutil",
+          "version": {
+            "requires": "8.5.18"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "quicknet-1.0.0.jar",
+          "url": "quicknet-1.0.0.jar",
+          "size": 51973,
+          "sha512": "b8832cd06a5181206f57522df6d7b4465878713ceed4703f6432e81c78611123e30f1e2895f76d2fb3e9f8fb533a21ce28f6fa33c3971f7edf2f31943bf4a57a",
+          "sha256": "5caf05f0f4064e8b0403ee947f57d4b0653d288f9c9a9e0eb118eafbc2682e5f",
+          "sha1": "4281cd1d57602469d3266c7d81129e26638ad880",
+          "md5": "2b72de7c5f4fc42d7b112892ed021c29"
+        }
+      ]
+    },
+    {
+      "name": "javadocElements",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "javadoc",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "quicknet-1.0.0-javadoc.jar",
+          "url": "quicknet-1.0.0-javadoc.jar",
+          "size": 154274,
+          "sha512": "2fe2be29b258986bb4180e766d250fb443d0e8eb24c1239f050ebcf3c9733d8d0c5c3f276a14a44d70227425da495dc60c9b72898335708607e4a36617943c41",
+          "sha256": "00e3808fc883d2c0ce06d3e7c1dba17755cd8fc974a6f84ebcbc298e92bfeb02",
+          "sha1": "142a957ee765cff47c55e9766a4e820ed14fff97",
+          "md5": "1a6ac6574e8a2d5205993858f0b1aa92"
+        }
+      ]
+    },
+    {
+      "name": "sourcesElements",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "sources",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "quicknet-1.0.0-sources.jar",
+          "url": "quicknet-1.0.0-sources.jar",
+          "size": 29934,
+          "sha512": "67846289baff72cc99b3cf08a4efcf58e1307d10d76fecce5b1b2544122f7705e421619add73fcf4a57480dbff819642006026e0b10060eb56fb1a446675f4ba",
+          "sha256": "6fe3d0df745f837cde55d7e80199b580dbb8a062c3017d8c0590b7bf733ddb47",
+          "sha1": "8b360ca42bb94c7c9369e2fc556be86d69564058",
+          "md5": "5410f322bd68762b95286e0dd0b138a9"
+        }
+      ]
+    }
+  ]
+}
