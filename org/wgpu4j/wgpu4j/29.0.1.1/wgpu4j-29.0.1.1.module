@@ -55,11 +55,11 @@
         {
           "name": "wgpu4j-29.0.1.1.jar",
           "url": "wgpu4j-29.0.1.1.jar",
-          "size": 29225146,
-          "sha512": "44e64cb6bc70f37ffa77f9b5a6834c01f3de7b2e4697c65a376d6141fee08ad52bf95f8dec310c8393bfb0e2f7da586cab58d59e59a567bff63538ff3189e970",
-          "sha256": "647676654bb02e6040cc6519536d446d4f1f993975d3e7e5adcfc3b97c41b1d1",
-          "sha1": "bda07d117d19cb596dd5967463c49a083163c258",
-          "md5": "bbff7188ed297a6b70f44b52058e9d05"
+          "size": 29232191,
+          "sha512": "4dff371db1e0a88a230ee39d255637bf53d586cdf8fedfb5954e455c033ad4e1088bde3cf39399829381d78d1ffbcb3f2faaf08566a94a2edaa1f2d052cd0713",
+          "sha256": "5fed13ec08be4383321ad6052b956f195fed3c376429d4f6593322c08d6f70a8",
+          "sha1": "a05a5372f891b4d71fe9e730adcb604434f4de28",
+          "md5": "258bad3fb4fa968496d5586900709614"
         }
       ]
     },
@@ -104,11 +104,11 @@
         {
           "name": "wgpu4j-29.0.1.1.jar",
           "url": "wgpu4j-29.0.1.1.jar",
-          "size": 29225146,
-          "sha512": "44e64cb6bc70f37ffa77f9b5a6834c01f3de7b2e4697c65a376d6141fee08ad52bf95f8dec310c8393bfb0e2f7da586cab58d59e59a567bff63538ff3189e970",
-          "sha256": "647676654bb02e6040cc6519536d446d4f1f993975d3e7e5adcfc3b97c41b1d1",
-          "sha1": "bda07d117d19cb596dd5967463c49a083163c258",
-          "md5": "bbff7188ed297a6b70f44b52058e9d05"
+          "size": 29232191,
+          "sha512": "4dff371db1e0a88a230ee39d255637bf53d586cdf8fedfb5954e455c033ad4e1088bde3cf39399829381d78d1ffbcb3f2faaf08566a94a2edaa1f2d052cd0713",
+          "sha256": "5fed13ec08be4383321ad6052b956f195fed3c376429d4f6593322c08d6f70a8",
+          "sha1": "a05a5372f891b4d71fe9e730adcb604434f4de28",
+          "md5": "258bad3fb4fa968496d5586900709614"
         }
       ]
     },
@@ -124,11 +124,11 @@
         {
           "name": "wgpu4j-29.0.1.1-sources.jar",
           "url": "wgpu4j-29.0.1.1-sources.jar",
-          "size": 27912421,
-          "sha512": "b9dd483325ecf1db1d04ee5b070884ffdba744f9278f5f179e1da5eb40f8e3212c3eefd107fbd2ab14bf28fa3b70ba4524ba97a67a697d6a4af2a4ff3d902dc9",
-          "sha256": "e896a8a70ae07e51f074591011f4884c5377ede70d1bfa17abfc4fdef1ba5ec8",
-          "sha1": "f6e56dc16a3bae6c7f8beb7a527aaf4cf55b0a13",
-          "md5": "83b272e1358a01ccb04cdef8e4560b4b"
+          "size": 27914443,
+          "sha512": "e68fec09a4ec4a1655c2717233e5e38983044cea5107789f7c987908dbae6c2b7e22be13cc45c92bbf2dc7c71be5f10aaeb0fb352e9772fbfc4c25b77f842c18",
+          "sha256": "4a1b2335b0ab8977f249f5191e8f5b426031f98a0e4a4f3cddd2426f054ed79e",
+          "sha1": "3ba85adf7a521df1ddb79ffaa20a80383643c743",
+          "md5": "b3f1862aca62fc0e10d2fb3d18128265"
         }
       ]
     },
@@ -144,11 +144,11 @@
         {
           "name": "wgpu4j-29.0.1.1-javadoc.jar",
           "url": "wgpu4j-29.0.1.1-javadoc.jar",
-          "size": 2868061,
-          "sha512": "27f845c04c5bcfce05329b32a78b02c05c83a42807a642f00f8bb0b34828846ae562aba69a0cd8cdf9ab1f06ac7ea6f9bc4effde8ae3fd64d7188d57ffc3b546",
-          "sha256": "dcab4eb98d65f5548f15466ec81f0a1cd2d77102ad771b914b27c46b3269065f",
-          "sha1": "f35f908bdf3fbd5ebc0e158ef387180e3ab10300",
-          "md5": "b43d5d02445b0788a11b23fbf0e3c459"
+          "size": 2881072,
+          "sha512": "b68b2fdcebb6a23f1db6aff20242978bf40461c1a70b7b8c2d21b5a2ee59f6b6f34d4b56acbd57ec6877880884dd39ea0a0e08cd2c9e8f02a69b32d333a9c795",
+          "sha256": "150864b9064bb12d426b76859e4368c6847cc2e55e0dcd4eb9d02c4491659cc4",
+          "sha1": "3ad174290d20e7585a9f4bbdc8ab622bf10e593b",
+          "md5": "f138b98f47c2dae8e5387c654576c8f9"
         }
       ]
     }
