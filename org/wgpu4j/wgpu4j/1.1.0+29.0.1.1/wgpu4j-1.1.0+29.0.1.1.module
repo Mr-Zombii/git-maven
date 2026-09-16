@@ -1,0 +1,156 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "org.wgpu4j",
+    "module": "wgpu4j",
+    "version": "1.1.0+29.0.1.1",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "8.14"
+    }
+  },
+  "variants": [
+    {
+      "name": "apiElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 22,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-api"
+      },
+      "dependencies": [
+        {
+          "group": "org.slf4j",
+          "module": "slf4j-api",
+          "version": {
+            "requires": "2.0.9"
+          }
+        },
+        {
+          "group": "org.lwjgl",
+          "module": "lwjgl-bom",
+          "version": {
+            "requires": "3.3.6"
+          },
+          "attributes": {
+            "org.gradle.category": "platform"
+          },
+          "endorseStrictVersions": true
+        },
+        {
+          "group": "org.lwjgl",
+          "module": "lwjgl"
+        },
+        {
+          "group": "org.lwjgl",
+          "module": "lwjgl-glfw"
+        }
+      ],
+      "files": [
+        {
+          "name": "wgpu4j-1.1.0+29.0.1.1.jar",
+          "url": "wgpu4j-1.1.0+29.0.1.1.jar",
+          "size": 29238713,
+          "sha512": "2575dfd41b731d4ae06f91e8f2cafee62ecb8d1ee0613fd0dbfbf3eba6429cf45c4cf7f9631a354083a4af4bdf93897849ee8b86ddf75c24e6204c0c9a08f446",
+          "sha256": "69169ad42ebeb2b41614e6b1dc034d9102a587e48b3f05cfedd4691162c57ccd",
+          "sha1": "98bffbe440455225f0b21402d5357fde0e3e46ee",
+          "md5": "0cad069a6e6432542b29dc3ed61f0e28"
+        }
+      ]
+    },
+    {
+      "name": "runtimeElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 22,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "dependencies": [
+        {
+          "group": "org.slf4j",
+          "module": "slf4j-api",
+          "version": {
+            "requires": "2.0.9"
+          }
+        },
+        {
+          "group": "org.lwjgl",
+          "module": "lwjgl-bom",
+          "version": {
+            "requires": "3.3.6"
+          },
+          "attributes": {
+            "org.gradle.category": "platform"
+          },
+          "endorseStrictVersions": true
+        },
+        {
+          "group": "org.lwjgl",
+          "module": "lwjgl"
+        },
+        {
+          "group": "org.lwjgl",
+          "module": "lwjgl-glfw"
+        }
+      ],
+      "files": [
+        {
+          "name": "wgpu4j-1.1.0+29.0.1.1.jar",
+          "url": "wgpu4j-1.1.0+29.0.1.1.jar",
+          "size": 29238713,
+          "sha512": "2575dfd41b731d4ae06f91e8f2cafee62ecb8d1ee0613fd0dbfbf3eba6429cf45c4cf7f9631a354083a4af4bdf93897849ee8b86ddf75c24e6204c0c9a08f446",
+          "sha256": "69169ad42ebeb2b41614e6b1dc034d9102a587e48b3f05cfedd4691162c57ccd",
+          "sha1": "98bffbe440455225f0b21402d5357fde0e3e46ee",
+          "md5": "0cad069a6e6432542b29dc3ed61f0e28"
+        }
+      ]
+    },
+    {
+      "name": "sourcesElements",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "sources",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "wgpu4j-1.1.0+29.0.1.1-sources.jar",
+          "url": "wgpu4j-1.1.0+29.0.1.1-sources.jar",
+          "size": 27916626,
+          "sha512": "b34ffe32b9f1efb9790e22994cfaed96f423df6f51a2148904483392ff0ceff5ba4217bf5b6f104035e6a439cf83f39074fca3f99e2300d0a316b51848474dc4",
+          "sha256": "52874a7fed6e67b3c9376dbcd1e4ef84f4214c513c6290584c7e5d4f4b9f0110",
+          "sha1": "fff244f017f8a9489f9205caabc5437b572a0aa2",
+          "md5": "add9c62e9d7a7060462f9a9fc80c1e40"
+        }
+      ]
+    },
+    {
+      "name": "javadocElements",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "javadoc",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "wgpu4j-1.1.0+29.0.1.1-javadoc.jar",
+          "url": "wgpu4j-1.1.0+29.0.1.1-javadoc.jar",
+          "size": 2893619,
+          "sha512": "611844cadf769a0a751d6f01c377871f2e32139d64070cd83d73f99363dd4f35e8a6e0a8af59063b6e85f23b7835e2e17396cedceb312236b7bbc3c7e8f6bf6e",
+          "sha256": "80d124ba7b950234aba66e86a07479306797513675e6489c95520d38e5224960",
+          "sha1": "289abf9cad280cc5ad39202985eaf78c6a13b56d",
+          "md5": "e977be5f6b1e3b967d5f802dcd08a313"
+        }
+      ]
+    }
+  ]
+}
